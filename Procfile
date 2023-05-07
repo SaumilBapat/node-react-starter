@@ -1,2 +1,2 @@
-node index.js
-cd client && npm start
+worker: node index.js
+web: cd client && npm start
